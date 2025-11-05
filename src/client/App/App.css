@@ -1,0 +1,31 @@
+@import '../../styles/global.css';
+
+.app {
+  max-width: 50rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header img {
+  margin: auto;
+  height: 10rem;
+  padding: var(--size-ml);
+}
+
+main h2 {
+  padding-bottom: var(--size-m);
+}
+
+ul {
+  text-align: left;
+
+  li {
+    margin-bottom: var(--size-xs);
+  }
+}
+
+footer img {
+  margin: auto;
+  height: var(--size-ml);
+  margin-top: var(--size-m);
+}
