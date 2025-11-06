@@ -8,7 +8,7 @@ Hvis noe skjærer seg, finner vi ut av det sammen.
 
 - Bruk **egen laptop** (si ifra hvis dette ikke er mulig)
 - **Klon dette repoet** til din maskin
-- Sørg for at du har [Node.js (LTS, 22.18.0+)](https://nodejs.org/en/download) installert
+- Sørg for at du har [Node.js (LTS, 22.18.0+)](https://nodejs.org/en/download) med npm installert
 - Kjør følgende kommandoer i terminalen:
 
 ```bash
