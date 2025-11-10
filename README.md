@@ -9,6 +9,7 @@ Hvis noe skjærer seg, finner vi ut av det sammen.
 - Bruk **egen laptop** (si ifra hvis dette ikke er mulig)
 - **Klon dette repoet** til din maskin
 - Sørg for at du har [Node.js (LTS, 22.18.0+)](https://nodejs.org/en/download) med npm installert
+- Skru av alt av KI-hjelpemidler (f.eks. GitHub Copilot) og autosuggest i kodeditoren din
 - Kjør følgende kommandoer i terminalen:
 
 ```bash
