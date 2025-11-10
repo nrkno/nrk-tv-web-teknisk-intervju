@@ -1,3 +1,13 @@
+export interface HeadlinersAPIResponse {
+  title: string;
+  headliners: Headliner[];
+  _links: {
+    self: {
+      href: string;
+    };
+  };
+}
+
 export type Headliner = ProgramHeadliner | SeriesHeadliner;
 
 type Image = {
