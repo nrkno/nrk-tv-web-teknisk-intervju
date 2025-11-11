@@ -10,6 +10,7 @@ Hvis noe skjærer seg, finner vi ut av det sammen.
 - **Klon dette repoet** til din maskin
 - Sørg for at du har [Node.js (LTS, 22.18.0+)](https://nodejs.org/en/download) med npm installert
 - Skru av alt av KI-hjelpemidler (f.eks. GitHub Copilot) i kodeditoren din
+- Lag en bruker i [Figma](https://www.figma.com/) om du ikke allerede har det (for å kunne aksessere skisser under intervjuet).
 - Kjør følgende kommandoer i terminalen:
 
 ```bash
